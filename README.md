@@ -20,8 +20,6 @@ Projects/
 │   ├── main.py
 └── README.md
 
-## Clone the repository:
-```bash
-git clone https://github.com/your-username/Projects.git
-
-[Email Me](mailto:Notthewitcher@gmail.com)
+You can clone this repo by the following command
+```sh
+git clone https://github.com/thisispit/Projects.git
