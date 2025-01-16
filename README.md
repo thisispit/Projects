@@ -50,4 +50,4 @@ Feel free to fork this repository and submit pull requests. You can also open is
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- GitHub: [@thisispit](https://github.com/thisispit)
+- Gitruk: [@thisispit](https://github.com/thisispit)
